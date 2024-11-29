@@ -1,0 +1,11 @@
+name: individual2
+channels:
+  - conda-forge  # Specify the channels to use
+  - defaults
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - pandera
+  - seaborn
+
